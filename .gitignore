@@ -1,0 +1,84 @@
+# ============================================================
+# C++ Build Files
+# ============================================================
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Static libraries
+*.a
+*.lib
+
+# Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Debug/Release build folders
+build/
+bin/
+Debug/
+Release/
+
+
+# ============================================================
+# SQLite Database Files
+# ============================================================
+
+# Local project databases
+*.db
+*.sqlite
+*.sqlite3
+
+# SQLite temporary/journal files
+*.db-journal
+*.db-shm
+*.db-wal
+
+
+# ============================================================
+# IDE / Editor Files
+# ============================================================
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Code::Blocks
+*.cbp
+*.depend
+*.layout
+
+
+# ============================================================
+# Operating System Files
+# ============================================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+
+# ============================================================
+# Temporary / Backup Files
+# ============================================================
+
+*.tmp
+*.temp
+*.bak
+*~
